@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/cameronrye
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cameronrye.keybase.pub
+  * I am cameronrye (https://keybase.io/cameronrye) on keybase.
+  * I have a public key ASBkw8omUmFPvsZfwjoaufWba5hOsfgMG4Qu1dB4fCtlPgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012064c3ca2652614fbec65fc23a1ab9f59b6b984eb1f80c1b842ed5d0787c2b653e0a",
+            "host": "keybase.io",
+            "kid": "012064c3ca2652614fbec65fc23a1ab9f59b6b984eb1f80c1b842ed5d0787c2b653e0a",
+            "uid": "3c8530e65c800e816ec6808a3a168a19",
+            "username": "cameronrye"
+        },
+        "service": {
+            "hostname": "cameronrye.keybase.pub",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1485544735,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1485544604,
+        "hash": "758e4bf316615cf53ab131095194c62463bbc29f74b6485598308a0051adb04a625979d95c6a2d83f9bfb1db34a37a3530abcd888690f58a718f43cae5ce2de7",
+        "seqno": 820533
+    },
+    "prev": "6bfa9e7d4c84ccf07fefe4a93d2bcac088830f5a2429a55911fcc7316ef87bf2",
+    "seqno": 16,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZMPKJlJhT77GX8I6Grn1m2uYTrH4DBuELtXQeHwrZT4Kp3BheWxvYWTFAwF7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNjRjM2NhMjY1MjYxNGZiZWM2NWZjMjNhMWFiOWY1OWI2Yjk4NGViMWY4MGMxYjg0MmVkNWQwNzg3YzJiNjUzZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNjRjM2NhMjY1MjYxNGZiZWM2NWZjMjNhMWFiOWY1OWI2Yjk4NGViMWY4MGMxYjg0MmVkNWQwNzg3YzJiNjUzZTBhIiwidWlkIjoiM2M4NTMwZTY1YzgwMGU4MTZlYzY4MDhhM2ExNjhhMTkiLCJ1c2VybmFtZSI6ImNhbWVyb25yeWUifSwic2VydmljZSI6eyJob3N0bmFtZSI6ImNhbWVyb25yeWUua2V5YmFzZS5wdWIiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xOCJ9LCJjdGltZSI6MTQ4NTU0NDczNSwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDg1NTQ0NjA0LCJoYXNoIjoiNzU4ZTRiZjMxNjYxNWNmNTNhYjEzMTA5NTE5NGM2MjQ2M2JiYzI5Zjc0YjY0ODU1OTgzMDhhMDA1MWFkYjA0YTYyNTk3OWQ5NWM2YTJkODNmOWJmYjFkYjM0YTM3YTM1MzBhYmNkODg4NjkwZjU4YTcxOGY0M2NhZTVjZTJkZTciLCJzZXFubyI6ODIwNTMzfSwicHJldiI6IjZiZmE5ZTdkNGM4NGNjZjA3ZmVmZTRhOTNkMmJjYWMwODg4MzBmNWEyNDI5YTU1OTExZmNjNzMxNmVmODdiZjIiLCJzZXFubyI6MTYsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RA0im5TaiGRSbpDRBl/xX8rMNMNmQYuvg5lHYE0ZR5gON4NH5bUeBQs/gUVZ3vPotxxfc7YuoZhKJe1p7OgER5CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGHGJxOKAR/Q63nD8PU3LerdJIVZCnHaFmb7NVOMsnPao3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cameronrye
+
+==================================================================

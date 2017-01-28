@@ -1,0 +1,38 @@
+```
+$$$$$$\
+$$  __$$\
+$$ /  \__| $$$$$$\  $$$$$$\$$$$\   $$$$$$\   $$$$$$\   $$$$$$\  $$$$$$$\
+$$ |       \____$$\ $$  _$$  _$$\ $$  __$$\ $$  __$$\ $$  __$$\ $$  __$$\
+$$ |       $$$$$$$ |$$ / $$ / $$ |$$$$$$$$ |$$ |  \__|$$ /  $$ |$$ |  $$ |
+$$ |  $$\ $$  __$$ |$$ | $$ | $$ |$$   ____|$$ |      $$ |  $$ |$$ |  $$ |
+\$$$$$$  |\$$$$$$$ |$$ | $$ | $$ |\$$$$$$$\ $$ |      \$$$$$$  |$$ |  $$ |
+\______/  \_______|\__| \__| \__| \_______|\__|       \______/ \__|  \___|
+_______   __      __  ________
+|       \ |  \    /  \|        \
+| $$$$$$$\ \$$\  /  $$| $$$$$$$$
+| $$__| $$  \$$\/  $$ | $$__
+| $$    $$   \$$  $$  | $$  \
+| $$$$$$$\    \$$$$   | $$$$$
+| $$  | $$    | $$    | $$_____
+| $$  | $$    | $$    | $$     \
+\$$   \$$     \$$     \$$$$$$$$$              $ cameronrye.com / c@meron.io
+```
+
+### Hello there!
+
+I put this file in `/keybase/public/cameronrye`, so you know it's signed by me. If you want to
+know more about me, just type `keybase id cameronrye`.
+Your computer will check all my id proofs and verify my keys.
+
+What else you'll find in my folder...
+
+ - `keys/`    - some keys, such as my Signal app fingerprint and SSH fingerprints
+ - `software/` - things I wrote or manually verified so you don't have to (if you trust me)
+
+For maximal security, `keybase track cameronrye` and use the folder `/keybase/public/cameronrye` - this
+asserts everything about me on an ongoing basis.
+
+ -Cameron Rye, Jan. 27, 2017
+
+
+ 01000011 01100001 01101101 01100101 01110010 01101111 01101110  01010010 01111001 01100101
