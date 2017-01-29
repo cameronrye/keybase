@@ -1,2 +1,2 @@
 # keybase
-A place for my public Keybase files.
+A place for my public [keybase](https://keybase.io) files

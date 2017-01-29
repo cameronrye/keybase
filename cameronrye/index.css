@@ -1,0 +1,151 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  overflow: hidden;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  color: rgb(255,255,255);
+  background: rgb(58,123,213);
+  background-image: -webkit-radial-gradient(top, circle cover, rgb(0,210,255) 0%, rgb(58,123,213) 80%);
+}
+
+textarea, input, button {
+  outline: none;
+}
+
+.window {
+  width: 80%;
+  height: 70%;
+  margin: 5% 0 0 0;
+  box-shadow: 0 0.25rem 0.5rem rgb(18,24,30);
+  border-radius: 0 0 0.1rem 0.1rem;
+  animation: bounceIn 1s ease-in-out;
+}
+
+.bar {
+  background: rgb(25,25,25);
+  height: 36px;
+  border-radius: 0.5rem 0.5rem 0 0;
+}
+
+.btn, .btn::before, .btn::after {
+  width: 12px;
+  height: 12px;
+  border-radius: 100%;
+  display: block;
+}
+
+.btn {
+  background: rgb(246,183,62);
+  position: relative;
+  margin-left: 38px;
+  top: 12px;
+}
+
+.btn::before, .btn::after {
+  content: " ";
+  position: absolute;
+}
+
+.btn::before {
+  background: rgb(245,85,81);
+  margin-left: -20px;
+}
+
+.btn::after {
+  background: rgb(50,193,70);
+  margin-left: 20px;
+}
+
+.title {
+  font-family: 'Roboto', Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 14px;
+  text-align: center;
+}
+
+.terminal {
+  height: calc(100% - 36px);
+  background: black;
+  opacity: 0.7;
+  padding: 4px;
+  color: white;
+  font-family: 'Source Code Pro', monospace;
+  font-weight: 200;
+  font-size: 14px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  border-bottom-left-radius: 0.1rem;
+  border-bottom-right-radius: 0.1rem;
+  overflow-y: auto;
+}
+
+.terminal::after {
+  content: "|";
+  animation: blink 2s steps(1) infinite;
+}
+
+.prompt {
+  color: #bde371;
+}
+
+.path {
+  color: #5ed7ff;
+}
+
+footer {
+  position: absolute;
+  bottom: 2%;
+  width: 4%;
+  height: auto;
+  cursor: pointer;
+  opacity: .4;
+}
+footer:hover {
+  opacity: .7;
+}
+
+@keyframes blink {
+  50% {
+    color: transparent;
+  }
+}
+
+@keyframes bounceIn {
+  from, 20%, 40%, 60%, 80%, to {
+    animation-timing-function: cubic-bezier(0.215, 0.610, 0.355, 1.000);
+  }
+
+  0% {
+    opacity: 0;
+    transform: scale3d(.3, .3, .3);
+  }
+
+  20% {
+    transform: scale3d(1.1, 1.1, 1.1);
+  }
+
+  40% {
+    transform: scale3d(.9, .9, .9);
+  }
+
+  60% {
+    opacity: 1;
+    transform: scale3d(1.03, 1.03, 1.03);
+  }
+
+  80% {
+    transform: scale3d(.97, .97, .97);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale3d(1, 1, 1);
+  }
+}
