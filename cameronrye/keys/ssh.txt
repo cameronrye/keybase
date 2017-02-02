@@ -1,0 +1,6 @@
+#
+# Grant me access! Add this to your authorized_keys...
+# --------------------------------------------------------------------
+
+# cameronrye - macbook pro, added 2017-02-02
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCxho/+sq8PerukePobmCX6K3MbTrARXW5W/ivJEw4rUDY51//RrObueYhnRoo2QcI8dJRPsPaqKwIevZRA0MtZM6qOuyq4YnowPvNWVdu7tKc8BdHe+jiIFG13ugFnKVee18T3STgSj1jbz68Wvvs8UodQ3oS1ZyBa1NRw86Wtwr81Y5vzzGX+ciU5xbzVTQA87h9+Emjelz1KXf3f3KWghzXdbPyNYSyVgWvHo3C/4fkobfE5krHy9pDnfkesWCmll2s0iHbEiYm5Tqmm/v7YjVit5Ej8RJ63uY1m4C83i0F1q22dZraklMRisMPPmf87/GePIMcLCicraGXmGnAn cameronrye@MacBook-Pro.local
