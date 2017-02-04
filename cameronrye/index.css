@@ -9,7 +9,8 @@ html, body {
 
 body {
   display: flex;
-  justify-content: center;
+  align-items: center;
+  flex-direction: column;
   color: rgb(255,255,255);
   background: rgb(58,123,213);
   background-image: -webkit-radial-gradient(top, circle cover, rgb(0,210,255) 0%, rgb(58,123,213) 80%);
@@ -23,7 +24,6 @@ textarea, input, button {
   width: 80%;
   height: 70%;
   margin: 5% 0 0 0;
-  box-shadow: 0 0.25rem 0.5rem rgb(18,24,30);
   border-radius: 0 0 0.1rem 0.1rem;
   animation: bounceIn 1s ease-in-out;
 }
@@ -91,6 +91,10 @@ textarea, input, button {
   animation: blink 2s steps(1) infinite;
 }
 
+.terminal a {
+  color: white;
+}
+
 .prompt {
   color: #bde371;
 }
@@ -100,8 +104,7 @@ textarea, input, button {
 }
 
 footer {
-  position: absolute;
-  bottom: 2%;
+  margin: 4% 0 0 0;
   width: 4%;
   height: auto;
   cursor: pointer;
