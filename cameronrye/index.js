@@ -103,9 +103,10 @@ var cli = cli || {};
 		// set window title
 		title.text('cameronrye@keybase')
 		// display initial message
-		terminal.append('# Welcome... Lost? try help 💁\n\n')
+		terminal.append('# Welcome... Lost? try `help` 💁\n\n')
 		cli.events()
 		cli.prompt()
+    terminal.focus() // iOS Fix?
 	}
 	cli.prompt = function () {
 		// populate comman prompt
