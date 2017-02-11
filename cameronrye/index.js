@@ -28,6 +28,7 @@ var cli = cli || {};
 			name: 'help',
 			function: function() {
 				// as well as some undocuments features for you to find
+        terminal.append('Not much in terms of help atm. Wanna talk? try `email`\n')
 			}
 		}, {
 			name: 'echo',
@@ -102,7 +103,7 @@ var cli = cli || {};
 		// set window title
 		title.text('cameronrye@keybase')
 		// display initial message
-		terminal.append('# Welcome... some useful text... halp!!!\n\n')
+		terminal.append('# Welcome... Lost? try help 💁\n\n')
 		cli.events()
 		cli.prompt()
 	}
