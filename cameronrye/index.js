@@ -28,7 +28,7 @@ var cli = cli || {};
 			name: 'help',
 			function: function() {
 				// as well as some undocuments features for you to find
-        terminal.append('Not much in terms of help atm. Wanna talk? try `email`\n')
+        terminal.append('Not much in terms of help atm. Wanna chat? try `email`\n')
 			}
 		}, {
 			name: 'echo',
